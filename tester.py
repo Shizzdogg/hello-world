@@ -6,4 +6,5 @@ def test():
 def test2():
 	return "Hello, World!"
 
-
+def test3():
+	pass
